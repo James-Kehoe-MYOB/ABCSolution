@@ -1,0 +1,11 @@
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC.deps.json
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC.runtimeconfig.json
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC.runtimeconfig.dev.json
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC.dll
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/bin/Debug/netcoreapp3.1/ABC.pdb
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/obj/Debug/netcoreapp3.1/ABC.csprojAssemblyReference.cache
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/obj/Debug/netcoreapp3.1/ABC.AssemblyInfoInputs.cache
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/obj/Debug/netcoreapp3.1/ABC.AssemblyInfo.cs
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/obj/Debug/netcoreapp3.1/ABC.dll
+/Users/james.kehoe/RiderProjects/ABC_Solution/ABC/obj/Debug/netcoreapp3.1/ABC.pdb
